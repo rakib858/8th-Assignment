@@ -1,0 +1,326 @@
+/*Author Info
+Name:Md  Raqibul Hasan
+Mail add:rakibulhasan055@gmal.com
+*/
+
+/*
+===Index===
+
+1. Fusce at
+2. Facilisis
+3. Ante donec
+4. Blandit rhoncus
+5. Placerat
+=======
+*/
+
+/*--Global CSS--*/
+h1 {
+    text-align: center;
+    padding: 80px 0px;
+    font-size: 30px;
+    font-family: RobotoSlab Bold;
+}
+h2 {
+    font-size: 62px;
+    color: #fff;
+    font-family: RobotoSlab Light RobotoSlab bold;
+}
+h3 {
+    font-size: 24px;
+    font-family: RobotoSlab Bold Roboto Light;
+    text-align: center;
+}
+h4 {
+    font-size: 30px;
+    font-family: RobotoSlab Bold;
+    color: #fff;
+}
+p {
+    font-size: 15px;
+    font-family: roboto Light;
+    color: #fff;
+}
+.img-center {
+    display: block;
+    margin: 0% auto;
+}
+.no-padding {
+    padding: 0px;
+}
+
+
+
+/*header*/
+.nav-head {
+    background-color: #edeff1!important;
+    padding: 20px 0px;
+}
+.nav-link{
+    color: #161616;
+}
+.nav-link.js-scroll-trigger.active {
+    background-color: #dd4b2b;
+    color: #fff;
+    border-radius: 20px;
+    padding: 5px 22px;
+    font-family: Roboto Light;
+}
+
+/*--Fusce at Section Start--*/
+
+.hero {
+    background: url(../img/bg.jpg) center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-top {
+    text-align: center;
+    padding: 450px 0px 115px;
+}
+.hero-top p{
+    font-size: 30px;
+    color: #fff;
+    font-family: RobotoSlab Light RobotoSlab bold;
+}
+.hero-main{
+    text-align: center;
+    padding-bottom: 75px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.btn-cstm {
+    display: block;
+    margin: 0% auto;
+    padding: 7px 70px;
+    font-family: Roboto Light;
+    border: none;
+    border-radius: 25px;
+    background-color: #fff;
+    color: darkred;
+    margin-bottom: 130px;
+    transition: 0.8s ease;
+}
+.btn-cstm:hover{
+    background-color: #dd4b2b;
+    color: #fff;
+    box-shadow: 1px 2px 4px #f9f9f9;
+}
+/*--Fusce at Section End--*/
+
+/*--Facilisis at Section Start--*/
+.news {
+    background-color: #edeff1;
+}
+.newsp {
+    font-size: 15px;
+    font-family: roboto Light;
+    color: black;
+    text-align: center;
+    margin: 35px 0px;
+}
+
+/*--Facilisis at Section End--*/
+
+/*--Ante donec Section Start--*/
+
+.letter {
+    background: url(../img/bg1.jpg)center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 100px 0px;
+    
+}
+.letterh {
+    font-size: 62px;
+    color: #fff;
+    font-family: RobotoSlab Light RobotoSlab bold;
+    margin-bottom: 20px;
+}
+.letterp {
+    padding-bottom: 40px;
+}
+.email {
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff!important;
+    padding: 7px 80px;
+    border-radius: 25px;
+    position: relative;
+}
+::placeholder {
+    text-align: left;
+    color: #fff;
+}
+.btn-submit {
+    display: block;
+    margin: 0% auto;
+    padding: 8px 50px;
+    font-family: Roboto Light;
+    border: none;
+    border-radius: 25px;
+    background-color: #fff;
+    color: darkred;
+    margin-bottom: 130px;
+    transition: 0.8s ease;
+    position: absolute;
+    left: 55%;
+    top: 0px;
+}
+/*--Ante donec Section End--*/
+
+/*--Blandit rhoncus Section Start--*/
+
+.blank{
+    background-color: #edeff1;
+}
+.blankh1{
+    text-align: justify;
+    font-size: 30px;
+    font-family: RobotoSlab Bold;
+    color: #161616;
+    margin-top: 110px;
+}
+.blankh2{
+    text-align: justify;
+    font-size: 30px;
+    font-family: RobotoSlab Bold;
+    color: #161616;
+    margin-top: 20px;
+}
+.blankp {
+    font-size: 15px;
+    font-family: roboto Light;
+    color: black;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+
+.btn-orenge {
+    padding: 7px 70px;
+    font-family: Roboto Light;
+    border: none;
+    border-radius: 25px;
+    background-color: #dd4b2b;
+    color: #fff;
+    transition: 0.8s ease;
+}
+.btn-orenge:hover {
+    background-color: gray;
+    color: #fff;
+    box-shadow: 1px 2px 4px blueviolet;
+}
+.btn-blue {
+    padding: 7px 70px;
+    font-family: Roboto Light;
+    border: none;
+    border-radius: 25px;
+    background-color: #4b4e73;
+    color: #fff;
+    margin-bottom: 110px;
+    transition: 0.8s ease;
+}
+.btn-blue:hover {
+    background-color: yellowgreen;
+    color: maroon;
+    box-shadow: 1px 2px 4px yellow;
+}
+.img-blank1 {
+    margin-top: 110px;
+}
+.img-blank2 {
+    margin-top: 10px;
+}
+/*--Blandit rhoncus Section End--*/
+
+/*--Placerat rhoncus Section Start--*/
+.para {
+    background-color: #d75d0e;
+    text-align: center;
+}
+.para-main {
+    padding: 100px 0;
+}
+/*--Placerat rhoncus Section End--*/
+
+/*--Footer Section Start--*/
+
+footer {
+    background: url(../img/bg1.jpg)center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.foot {
+    text-align: center;
+    padding: 90px 0px 250px 0px;
+}
+/*--Footer Section End--*/
+
+
+
+/*--Media Query Mobile Device--*/
+@media (min-width:320px) and (max-width:500px){
+
+    /*Global*/
+    h1{
+        font-size: 60px;
+    }
+    h2 {
+        font-size: 50px;
+        color: greenyellow;
+        font-family: RobotoSlab Light RobotoSlab bold;
+    }
+
+
+    /*Header*/
+    .navbar-brand.js-scroll-trigger{
+        margin-left: 5%;
+    }
+    .nav-link.js-scroll-trigger.active{
+        margin: 0% 5%;
+    }
+    .navbar-toggler {
+        margin-right: 20% !important;
+    }
+    .hero-top p {
+        font-size: 15px;
+        color:blue;
+        font-family: RobotoSlab Light RobotoSlab bold;
+    }
+    /*Blandit rhoncus*/
+    .img-blank1{
+        width: 90%;
+        display: block;
+        margin: 5% auto;
+    }
+    .blankh1{
+        text-align: center;
+    }
+    .email {
+        background: transparent;
+        border: 1px solid #fff;
+        color: #fff!important;
+        padding: 7px 50px;
+        border-radius: 25px;
+        position: relative;
+    }
+    .btn-submit {
+        display: block;
+        margin: 0% auto;
+        padding: 8px 20px;
+        font-family: Roboto Light;
+        border: none;
+        border-radius: 25px;
+        background-color: #fff;
+        color: darkred;
+        margin-bottom: 130px;
+        transition: 0.8s ease;
+        position: absolute;
+        left: 63%;
+        top: 0px;
+    }
+}
